@@ -12,11 +12,15 @@ Think of it as our **SIH playground** 🏟️ — where you can browse PS, claim
 
 2. **Follow the Maintainers**  
    - Show some love 💖 to:  
-     - [@uddhav](#)  
-     - [@deepanshu](#)  
-     - [@shubh](#)  
-     - [@2gaurav](#)  
-     - [@aslaysa](#)  
+
+- [@dipanshug08](https://github.com/dipanshug08)  
+- [@aniketsingh1023](https://github.com/aniketsingh1023)  
+- [@gmishrax5](https://github.com/gmishrax5)  
+- [@Uddhav621](https://github.com/Uddhav621)  
+- [@shubhjain05](https://github.com/shubhjain05)  
+ 
+
+---
 
 3. **Claim a Problem Statement**  
    - Head to **Issues** tab → click **New Issue**  
