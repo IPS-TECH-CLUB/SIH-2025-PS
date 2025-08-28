@@ -17,7 +17,7 @@ Think of it as our **SIH playground** 🏟️ — where you can browse PS, claim
 - [@aniketsingh1023](https://github.com/aniketsingh1023)  
 - [@gmishrax5](https://github.com/gmishrax5)  
 - [@Uddhav621](https://github.com/Uddhav621)  
-- [@shubhjain05](https://github.com/shubhjain05)  
+- [@05shubhjain](https://github.com/05shubhjain)  
  
 
 ---
