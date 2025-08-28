@@ -14,10 +14,11 @@ Think of it as our **SIH playground** 🏟️ — where you can browse PS, claim
    - Show some love 💖 to:  
 
 - [@dipanshug08](https://github.com/dipanshug08)  
-- [@aniketsingh1023](https://github.com/aniketsingh1023)  
+- [@aniketsingh1023](https://github.com/aniketsingh1023)
+- [@05shubhjain](https://github.com/05shubhjain) 
 - [@gmishrax5](https://github.com/gmishrax5)  
 - [@Uddhav621](https://github.com/Uddhav621)  
-- [@05shubhjain](https://github.com/05shubhjain)  
+  
  
 
 ---
@@ -89,10 +90,11 @@ Shoutout to the legends keeping this repo alive:
 Shoutout to the legends keeping this repo alive:  
 
 - [@dipanshug08](https://github.com/dipanshug08)  
-- [@aniketsingh1023](https://github.com/aniketsingh1023)  
+- [@aniketsingh1023](https://github.com/aniketsingh1023)
+- [@05shubhjain](https://github.com/05shubhjain)  
 - [@gmishrax5](https://github.com/gmishrax5)  
 - [@Uddhav621](https://github.com/Uddhav621)  
-- [@shubhjain05](https://github.com/shubhjain05)  
+
  
 
 ---
